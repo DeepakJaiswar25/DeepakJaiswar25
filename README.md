@@ -72,13 +72,13 @@ Currently focused on cloud-native backend engineering, AI-powered applications, 
 
 **Core Expertise**
 
-* Spring Boot
-* Spring MVC
-* Spring Security
-* Hibernate
-* JPA
-* REST APIs
-* Microservices
+- Spring Boot
+- Spring MVC
+- Spring Security
+- Hibernate
+- JPA
+- REST APIs
+- Microservices
 
 ### Cloud, DevOps & Tooling
 
@@ -88,11 +88,10 @@ Currently focused on cloud-native backend engineering, AI-powered applications, 
 
 **Developer Tools**
 
-* IntelliJ IDEA
-* Postman
-* Swagger/OpenAPI
-* GitHub Actions
-
+- IntelliJ IDEA
+- Postman
+- Swagger/OpenAPI
+- GitHub Actions
 ---
 
 # AI Engineering Expertise
