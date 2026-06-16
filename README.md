@@ -55,7 +55,7 @@ Currently focused on cloud-native backend engineering, AI-powered applications, 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,mysql"/>
+<img src="https://skillicons.dev/icons?i=java,python,javascript"/>
 </p>
 
 ### Frontend
@@ -70,28 +70,21 @@ Currently focused on cloud-native backend engineering, AI-powered applications, 
 <img src="https://skillicons.dev/icons?i=spring,postgres,mysql"/>
 </p>
 
-**Core Expertise**
-
-- Spring Boot
-- Spring MVC
-- Spring Security
-- Hibernate
-- JPA
-- REST APIs
-- Microservices
-
-### Cloud, DevOps & Tooling
+### Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,git,maven"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,maven"/>
 </p>
 
-**Developer Tools**
+### Developer Tools
 
-- IntelliJ IDEA
-- Postman
-- Swagger/OpenAPI
-- GitHub Actions
+<p>
+<img src="https://skillicons.dev/icons?i=idea,postman"/>
+</p>
+
+**Core Technologies**
+
+Spring Boot • Spring MVC • Spring Security • Hibernate • JPA • REST APIs • Microservices • Swagger/OpenAPI • Spring AI • Embabel • Appwrite • MinIO • GitHub Actions
 ---
 
 # AI Engineering Expertise
